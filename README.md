@@ -40,7 +40,7 @@ Clone & compile:
 
     git config --global http.https://gopkg.in.followRedirects true
     git clone https://github.com/expanse-org/open-expanse-pool.git
-    cd open-ethereum-pool
+    cd open-expanse-pool
     make
 
 Install redis-server.
